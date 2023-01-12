@@ -1,0 +1,2 @@
+import{A as t}from"./index.c1ef1c0c.js";import"./index.fd15df0b.js";import"./iframe.807f3656.js";import"./index.65c08807.js";import"./jsx-runtime.ec987871.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/DevPedroHB.png",alt:"Pedro Henrique B\xE9rgamo"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.5c785f8c.js.map
